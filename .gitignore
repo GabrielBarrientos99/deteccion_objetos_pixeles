@@ -1,0 +1,12 @@
+# Ignorar entorno virtual
+.venv/
+
+# Archivos de sistema
+*.log
+*.DS_Store
+
+# Ignorar archivos .mp4
+*.mp4
+
+# Ignorar archivos .png
+*.png
