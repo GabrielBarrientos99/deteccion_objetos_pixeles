@@ -1,1 +1,8 @@
+Integrantes:
+- Barrientos Cardenas, Gabriel Adrians
+- Del Rosario Sosa, Joshua Jean Paul
+- Yarleque Ramos, Gabriel Gerardo
+
+Abrir el siguiente enlace: 
+
 https://github.com/GabrielBarrientos99/deteccion_objetos_pixeles
